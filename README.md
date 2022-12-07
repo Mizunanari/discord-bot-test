@@ -1,6 +1,7 @@
 # discordpy project template
 
 discord botを作成するテンプレートプロジェクトです。
+詳しくは[こちらのドキュメント](https://www.tokiukaze.com/blog/discord-bot-dev/)をご覧ください。
 
 ```text
 .
@@ -22,7 +23,6 @@ discord botを作成するテンプレートプロジェクトです。
 - python-dotenv
 - isort
 - black
-- flake8
 
 ## 開発ツール
 - vscode

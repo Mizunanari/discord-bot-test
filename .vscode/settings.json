@@ -1,16 +1,14 @@
 {
-    "python.defaultInterpreterPath": "/usr/local/bin/python",
+    "editor.formatOnSave": true,
     "editor.codeActionsOnSave": {
         "source.organizeImports": true
     },
-    "editor.formatOnSave": true,
     "python.formatting.provider": "black",
-    "python.linting.flake8Enabled": true,
     "python.linting.mypyEnabled": true,
+    "python.linting.pylintEnabled": false,
     "python.testing.pytestEnabled": true,
     "python.testing.unittestEnabled": false,
     "[python]": {
-        "editor.insertSpaces": true,
-        "editor.tabSize": 4
-    }
+        "editor.defaultFormatter": null
+    },
 }
